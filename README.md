@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## 👀 My Competitive Programming Profiles
+## 👀 A savoir / Things to know :
 
 <p align="center">
   <a href="https://www.codewars.com/users/Damien-Dupont"><img src="https://www.codewars.com/users/Damien-Dupont/badges/large" alt="Code Wars"/></a>
