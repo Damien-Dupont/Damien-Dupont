@@ -8,7 +8,7 @@
 - :technologist: J'aime résoudre des `mystères` grâce au code. Tout problème est un mystère à élucider
 - :computer: Je m'entraîne ponctuellement sur `Codewars`
 - :student: Je me forme dans les domaines suivants `front-end` et `back-end`.
-- :thinking: Actuellement, je recherche `une alternance` ou un `stage`. Pourquoi pas même `un emploi en CDI`? Voici [mon CV](https://tergeist.notion.site/Damien-DUPONT-633e65d8d5c3419b8bd728decc0480bd).
+- :thinking: Actuellement, je recherche une `alternance` ou un `stage`. Pourquoi pas même `un emploi en CDI`? Voici [mon CV](https://tergeist.notion.site/Damien-DUPONT-633e65d8d5c3419b8bd728decc0480bd).
 - :nerd_face: Toujours `apprendre` de nouvelles compétences, de nouveaux languages
 - 💪 Reconversion? Pas de problème, je suis prêt pour le prochain défi!
 - 💞️ Je suis prêt à collaborer autour de tous les projets qui touchent (entre autres) aux (e)livres, à l'écologie, où à tout ce qu'il vous plaira de partager avec moi.
