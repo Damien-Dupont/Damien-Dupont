@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @DamienTergeist
-- 👀 I’m interested in writing and coding
-- 🌱 I’m currently learning web-development (python, javascript, css)
-- 💞️ I’m looking to collaborate on coding project involving books, ebooks, audiobooks, and whatever you'll throw at me.
-- 📫 How to reach me : twitter @dj_ponpon or github
+<h1 align="center">Bonjour, ici Damien <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+
+## :sassy_man:  À propos de moi
+- :school: Je suis en `rconversion` à la Wild Code School (remote)
+- 👀 Je m'intéresse au code, JS en particulier, au théâtre et à l'écriture créative
+- :trophy: Mon équipe et moi-même avons remporté la `meilleur présentation` au Wild.Hackathon de mai 2022
+- :technologist: J'aime résoudre des `mystères` grâce au code. Tout problème est un mystère à élucider
+- :computer: Je m'entraîne ponctuellement sur `Codewars`
+- :student: Je me forme dans les domaines suivants `front-end` et `back-end`.
+- :thinking: Actuellement, je recherche `une alternance` ou un `stage`. Pourquoi pas même `un emploi en CDI`? Voici [mon CV](https://tergeist.notion.site/Damien-DUPONT-633e65d8d5c3419b8bd728decc0480bd).
+- :nerd_face: Toujours `apprendre` de nouvelles compétences, de nouveaux languages
+- 💪 Reconversion? Pas de problème, je suis prêt pour le prochain défi!
+- 💞️ Je suis prêt à collaborer autour de tous les projets qui touchent (entre autres) aux (e)livres, à l'écologie, où à tout ce qu'il vous plaira de partager avec moi.
+
 
 <!---
 DamienTergeist/DamienTergeist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Wild Code School (remote)
+- 👀 I’m interested in writing and coding
 - :trophy: `Best Presentation` winner, with my hackathon team in may 2022
 - :technologist: I love using code as a solution for every `mystery`. Any problem is a mystery to be solved
 - :computer: I am a competitive programmer mainly at `Codewars`
@@ -22,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://tergeist.notion.site/Damien-DUPONT-633e65d8d5c3419b8bd728decc0480bd).
 - :nerd_face: Always `learning` new things, new languages
 - 💪 Always ready for a new challenge
+- 💞️ I’m looking to collaborate on coding project involving books, ebooks, audiobooks, ecology, and whatever you'll throw at me.
 
 <br>
 
@@ -89,10 +101,7 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -100,7 +109,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  /p>
+  </p>
 
 
  ### 👉 Operating Systems
