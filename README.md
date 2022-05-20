@@ -2,7 +2,7 @@
 <br>
 
 ## :sassy_man:  À propos de moi
-- :school: Je suis en `rconversion` à la Wild Code School (remote)
+- :school: Je suis en `reconversion` à la Wild Code School (remote)
 - 👀 Je m'intéresse au code, JS en particulier, au théâtre et à l'écriture créative
 - :trophy: Mon équipe et moi-même avons remporté la `meilleur présentation` au Wild.Hackathon de mai 2022
 - :technologist: J'aime résoudre des `mystères` grâce au code. Tout problème est un mystère à élucider
