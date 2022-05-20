@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 	<a href="mailto:damiendupont.dd@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Damien-Dupont"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/damiendupont-lyon/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com)
+	<a href="https://twitter.com/PonponTergeist"><img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Twitter"/></a>
 </p>
 
 
@@ -91,6 +91,7 @@ You can click the Preview link to take a look at your changes.
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
   &emsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
@@ -99,9 +100,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Xcode" src="https://img.shields.io/badge/xcode.svg?style=plastic&logo=xcode&logoColor=white" /></a>
-</p>
+  /p>
 
 
  ### 👉 Operating Systems
